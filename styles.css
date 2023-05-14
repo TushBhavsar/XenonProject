@@ -1,0 +1,68 @@
+body {
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  #logoutForm {
+    margin-top: 20px;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  nav a:hover {
+    background-color: #555;
+  }
+  
+  .car-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .car {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+  }
+  
+  .car h2 {
+    margin-top: 0;
+  }
+  h1{
+    color:rgb(71, 5, 18);
+  }
+
+  h2{
+    color:royalblue;
+  }
+  
+  
